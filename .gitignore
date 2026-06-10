@@ -1,0 +1,23 @@
+# Environment and local settings
+.env
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit and editor settings
+.streamlit/
+.vscode/
+.idea/
+
+# Output directories and generated artifacts
+results/
+outputs/
+logs/
+*.log
+
+# MacOS files
+.DS_Store

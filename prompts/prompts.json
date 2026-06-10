@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Persian Question Answering",
+    "description": "A basic expert-answer prompt for Persian questions.",
+    "template": "You are an expert Persian assistant.\n\nAnswer the following question in detail.\n\nQuestion:\n{input}"
+  },
+  {
+    "name": "Structured Persian Response",
+    "description": "A prompt that encourages a structured answer with reasoning.",
+    "template": "You are an expert Persian assistant.\n\nAnswer in Persian using bullet points.\n\nQuestion:\n{input}"
+  },
+  {
+    "name": "concise Response",
+    "description": "Answers are concise",
+    "template": "You are an expert Persian assistant.\n\nAnswer briefly in 3 sentences.\n\nQuestion:\n{input}"
+  }
+]

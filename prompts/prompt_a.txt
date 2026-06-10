@@ -1,0 +1,6 @@
+You are an expert Persian assistant.
+
+Answer the following question in detail.
+
+Question:
+{input}
