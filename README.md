@@ -129,13 +129,6 @@ Then open the displayed local URL in your browser.
 A sample dataset is available at `data/sample_questions.csv`.
 Use this file to test Persian prompt evaluation workflows in the app.
 
-## Screenshots
-
-Add visual assets to `docs/screenshots/`.
-
-- `docs/screenshots/home.png`
-- `docs/screenshots/prompt-management.png`
-- `docs/screenshots/analytics.png`
 
 ## Future Improvements
 
